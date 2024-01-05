@@ -31,3 +31,12 @@ Sept 2023-
 4.286 / 4.0 GPA
 
 Weighted Courses: Honors Chemistry, Honors English, Honors Math Analysis, AP US History, APCSP, APCSA
+
+## Langauges
+
+- Java
+- Rust
+- Typescript
+- React
+- C++
+- Python
