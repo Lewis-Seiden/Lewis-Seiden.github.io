@@ -25,6 +25,23 @@ Sept 2023-
 - Developed and maintained backend using C++ templates to allow trajopt problem to be solved using either CasADi or Sleipnir nonlinear solver.
 - Contributions include obstacle support, heuristics to improve trajectory generation efficiency, keybinds and other ux improvements.
 
+## Work Experience
+
+### Mentoring
+
+Mentor for elementary and middle school robotics teams.
+Aug 2021-Dec 2022
+
+- Taught new programmers and engineers using Java or Scratch.
+
+### aCADemy Summer Camp
+
+Lead
+June 2023
+
+- Organized other high school students to make presentations and materials for teaching CAD using Onshape to middle schoolers.
+- Created and delivered presentations and self-paced teaching.
+
 ## Education
 
 ### Piedmont High School
