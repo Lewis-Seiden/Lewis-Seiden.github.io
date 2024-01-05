@@ -1,5 +1,3 @@
-# Lewis Seiden
-
 ## Education
 
 ### Piedmont High School
