@@ -1,10 +1,4 @@
-## Education
-
-### Piedmont High School
-
-4.286 / 4.0 GPA
-
-Weighted Courses: Honors Chemistry, Honors English, Honors Math Analysis, AP US History, APCSP, APCSA
+# Resume
 
 ## Projects
 
@@ -30,3 +24,10 @@ Sept 2023-
 - Backend development using C++ templates to allow trajopt problem to be solved using either CasADi or Sleipnir nonlinear solver.
 - Contributions include obstacle support, heuristics to improve trajectory generation efficiency, keybinds and other ux improvements.
 
+## Education
+
+### Piedmont High School
+
+4.286 / 4.0 GPA
+
+Weighted Courses: Honors Chemistry, Honors English, Honors Math Analysis, AP US History, APCSP, APCSA
