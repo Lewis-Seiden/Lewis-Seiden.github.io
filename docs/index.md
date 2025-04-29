@@ -4,10 +4,10 @@
 
 ### FRC
 
-Robot Software lead
-Aug 2021-
+Vice Captain of Software, Robot Software lead
+Aug 2021-Apr 2025
 
-- Created Java software to control a 150lb robot in competition under tight 6 week deadline.
+- Created Java software to control 150lb robots each year in competition under tight 6 week deadlines.
 - Debugged robot software in production under time pressure.
 - Implemented and integrated controls algorithms including PID, Feedforward, and Trajectory-Optimization based methods.
 - Lead team on vision and pose estimation development using Apriltags.
@@ -46,11 +46,11 @@ June 2023
 
 ### Piedmont High School
 
-4.286 / 4.0 GPA
+4.244 / 4.0 GPA
 
-Weighted Courses: Honors Chemistry, Honors English, Honors Math Analysis, AP US History, APCSP, APCSA
+Weighted Courses: AP Calculus BC, AP English Literature, AP Environmental Science, Honors Chemistry, Honors English, Honors Math Analysis, AP US History, AP Computer Science Principles, AP Computer Science A
 
-## Langauges
+## Languages
 
 - Java
 - Rust
