@@ -6,6 +6,7 @@ Vice Captain of Software, Robot Software lead
 Aug 2021-Apr 2025
 
 - Created Java software to control 150lb robots each year in competition under tight 6 week deadlines.
+- Brought team from rookie to top 3% worldwide for 3 years running.
 - Won Dean's List Semi-Finalist award for outstanding work within team.
 - Helped win Excellence in Engineering award at the 2025 world championship for software features and robustness.
 - Debugged robot software in production under time pressure.
@@ -31,7 +32,7 @@ Sept 2023-
 - Used UCSD Supercomputer to train end to end AI model to control car from vision input.
 - Created LiDAR mapping program.
 - Used Onshape CAD to create wiring mounts for vehicle.
-- Attended lectures by UCSD professor Jack Silberstein on VMs, AI, and GNSS.
+- Attended lectures by UCSD professor Jack Silberman on VMs, AI, and GNSS.
 
 ## Work Experience
 
