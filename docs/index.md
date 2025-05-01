@@ -43,7 +43,7 @@ Aug 2021-Dec 2022
 
 - Taught new programmers and engineers using Java or Scratch.
 
-### Inaugral aCADemy Summer Camp
+### Inaugural aCADemy Summer Camp
 
 Lead
 June 2023
