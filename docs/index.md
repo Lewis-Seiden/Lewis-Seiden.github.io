@@ -30,7 +30,7 @@ Sept 2023-
 
 - Lead group of 5 during the summer to program autonomous model car.
 - Used UCSD Supercomputer to train end to end AI model to control car from vision input.
-- Created LiDAR mapping program.
+- Created lidar mapping program.
 - Used Onshape CAD to create wiring mounts for vehicle.
 - Attended lectures by UCSD professor Jack Silberman on VMs, AI, and GNSS.
 
