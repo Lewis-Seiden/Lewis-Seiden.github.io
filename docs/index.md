@@ -4,13 +4,13 @@ Incoming UCSB freshman, aspiring software engineer with interests in systems, co
 
 ### FRC
 
-Vice Captain of Software, Robot Software lead
+Robot Software lead for 4 years, Vice Captain for 1 year
 Aug 2021-Apr 2025
 
 - Created Java software to control 150lb robots each year in competition under tight 6 week deadlines.
-- Brought team from rookie to top 3% worldwide for 3 years running.
+- Brought team from rookie to top 3% worldwide for 4 years running.
 - Won Dean's List Semi-Finalist award for outstanding work within team.
-- Helped win Excellence in Engineering award at the 2025 World Championship for software features and robustness.
+- Key contributor to winning Excellence in Engineering award at the 2025 World Championship for software features and robustness.
 - Debugged robot software in production under time pressure.
 - Implemented and integrated controls algorithms including PID, Feedforward, and Trajectory-Optimization based methods.
 - Lead team on vision and pose estimation development using Apriltags.
