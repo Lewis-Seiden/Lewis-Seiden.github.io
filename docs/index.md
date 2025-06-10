@@ -4,7 +4,7 @@ Incoming UCSB freshman, aspiring software engineer with interests in systems, co
 
 ### FRC
 
-Robot Software lead for 4 years, Vice Captain for 1 year
+Robot Software lead, Vice Captain
 Aug 2021-Apr 2025
 
 - Created Java software to control 150lb robots each year in competition under tight 6 week deadlines.
