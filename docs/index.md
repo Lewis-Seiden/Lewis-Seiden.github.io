@@ -1,3 +1,5 @@
+Incoming UCSB freshman, aspiring software engineer with interests in systems, computer architecture, robotics, controls, and computer hardware.
+
 ## Projects
 
 ### FRC
